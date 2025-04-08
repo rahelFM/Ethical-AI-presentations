@@ -31,7 +31,7 @@ Slides and notes from a training session I led on **Ethical AI**, focusing on:
 All materials in this repository are shared under a **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license unless stated otherwise.  
 Please give appropriate credit and do not use for commercial purposes
 
-## ⭐ Contributions
+## Contributions
 
 This is a personal learning and sharing repository. Contributions, corrections, or new perspectives are welcome — feel free to fork and submit a pull request!
 
