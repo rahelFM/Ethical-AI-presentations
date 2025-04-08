@@ -33,5 +33,5 @@ Please give appropriate credit and do not use for commercial purposes
 
 ## Contributions
 
-This is a personal learning and sharing repository. Contributions, corrections, or new perspectives are welcome — feel free to fork and submit a pull request!
+This is a personal learning and sharing repository. Contributions, corrections, or new perspectives are welcome feel free to fork and submit a pull request!
 
