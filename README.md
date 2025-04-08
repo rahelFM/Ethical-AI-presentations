@@ -1,7 +1,7 @@
 # Ethical-AI-presentations
 # XAI & Cybersecurity Presentations Archive
 
-Welcome to my personal archive of presentations and training materials focused on the intersection of **Explainable Artificial Intelligence**, **Cybersecurity**, and **Responsible AI Practices**. This repository includes slide decks, summaries, and training resources I’ve developed or delivered across multiple engagements, courses, and internal training sessions.
+Welcome to my personal archive of presentations and training materials focused on the intersection of **Explainable Artificial Intelligence**, **Cybersecurity**, and **Responsible AI Practices**.
 ## Contents
 
 ### 1.NIST Cybersecurity Framework  
